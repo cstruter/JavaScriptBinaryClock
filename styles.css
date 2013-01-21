@@ -1,0 +1,24 @@
+.inactive
+{
+	background-color:white;
+}
+
+.active
+{
+	background-color:red;
+}		
+
+.inactive, .active, .res
+{
+	border: 1px solid black;
+	width:14%;
+	text-align:center;
+	color: black;
+}
+
+.res
+{
+	font-weight:bold;
+	background-color:black;
+	color:white;
+}
